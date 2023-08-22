@@ -64,12 +64,16 @@ async function init() {
 ${answers.description}
 
 ## Table of Contents
+- [Screenshot](#screenshot)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+
+## Screenshot
+Paste a photo of your application here.
 
 ## Installation
 ${answers.installation}
